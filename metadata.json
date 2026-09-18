@@ -1,0 +1,6 @@
+{
+  "name": "Ansar - Portfolio & LinkedIn Demo",
+  "description": "Modern single-page personal portfolio and interactive LinkedIn profile demo for Ansar, a Full-Stack Software Developer & UI/UX Enthusiast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
